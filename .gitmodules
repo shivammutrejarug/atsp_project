@@ -1,0 +1,6 @@
+[submodule "atsp_project_aries"]
+	path = atsp_project_aries
+	url = https://github.com/shivammutrejarug/atsp_project_aries.git
+[submodule "atsp_project_von"]
+	path = atsp_project_von
+	url = https://github.com/shivammutrejarug/atsp_project_von.git
