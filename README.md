@@ -14,7 +14,7 @@
 
 At localhost:9000, you can access explorer to view Network information
 
-6. `cd ../atsp_project_aries`
+6. `cd ../atsp_project_aries/demo`
 
 Now we run agents. These are samples. I had to add code to implement schema and code to issue and verify credentials for the acme agent. Faber is the university, thus, can act as UA for us. Acme is the company, which can act as UG for us. Alice is a student at Faber, which can act as the researcher for our use case. 
 
