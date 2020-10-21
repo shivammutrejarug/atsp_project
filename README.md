@@ -30,4 +30,7 @@ Generally, you provide credential from Faber to Alice and then Acme will ask for
 
 The issuance is static for now. We need to change this. If we change the issuance, we'll have to change the verification as well. 
 
+Use this json while issuing certificate from Faber to Bob.
+
+{ "name": "Bob Lal", "role": "Researcher",  "role_type": "melanoma",  "affiliation": "UA", "degree": "Science", "age": "24"}
 
