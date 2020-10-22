@@ -1,5 +1,5 @@
          
-                 
+                rug to joey 
 {
                     "name": "Joey Tribiani",
                     "expiry_date": "2018-05-28",
@@ -7,3 +7,14 @@
                     "affiliation": "Lung Cancer",
                     "age": "24"
                 }
+                
+{
+                    "name": "Joey Tribiani",
+                    "expiry_date": "2018-05-28",
+                    "role": "Student",
+                    "affiliation": "Lung Cancer",
+                    "age": "24"
+                }
+				
+				joey to umcg
+{"name":"Joey", "data": "lung cancer data"}
