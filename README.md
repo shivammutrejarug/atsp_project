@@ -40,7 +40,7 @@ Scenario two
 
 `git clone --recurse-submodules https://github.com/shivammutrejarug/atsp_project.git`
 
-2)  cd atspprojectvon.
+2)  cd atsp_project_von.
 3) ./manage build
 4) ./manage start –logs
 5) Now open 3 other terminals pointing to
