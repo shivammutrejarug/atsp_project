@@ -34,3 +34,19 @@ Use this json while issuing certificate from Faber to Bob.
 
 { "name": "Bob Lal", "role": "Researcher",  "role_type": "melanoma",  "affiliation": "UA", "degree": "Science", "age": "24"}
 
+Scenario two
+
+1)  Use the following command to clone the GitHub repository.
+
+`git clone --recurse-submodules https://github.com/shivammutrejarug/atsp_project.git`
+
+2)  cd atspprojectvon.
+3) ./manage build
+4) ./manage start –logs
+5) Now open 3 other terminals pointing to
+6) cd ../atspprojectaries/demo folder
+7) Now we run the agents in each of these terminals.
+8) ./rundemo rug
+9) ./rundemo joey
+10) ./rundemo umcg
+
