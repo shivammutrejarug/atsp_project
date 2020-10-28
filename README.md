@@ -40,10 +40,10 @@ Before that remember to create a bridge network so that we can run all the conta
 
 14. `docker exec -it mongodb1 mongo`
 
-15. ```
-use kafka
+15. ``
+use kafka 
 db.agg_test.insertMany([{"name": "Shivam"}, {"name": "Nivin"}, {"name": "Kaaviya"}])
-``` 
+``
 
 Follow the following instructions now : 
 
