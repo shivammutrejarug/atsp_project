@@ -28,7 +28,7 @@ Now we run agents. UoA and RuG are the two research universities. UMCG is the in
 
 10. `./run_demo bob`
 
-11. `./run_demo UMCG`
+11. `./run_demo umcg`
 
 We are storing the research data from UMCG on MongoDB. We have dockerized MongoDB as well and integrated it with run_demo. Thus, the next step would be to run the MongoDB container and store some data in the database to check if the researchers can access it when verified.
 
